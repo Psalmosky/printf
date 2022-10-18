@@ -1,6 +1,6 @@
 Authurs
 
-1. SAMUEL OMOTAYO OJO and ANITA EKOGIAWE
+SAMUEL OMOTAYO OJO and ANITA EKOGIAWE
 
 0x011 .C Printf
 
@@ -8,4 +8,4 @@ The aim of the project is to understand the concept of team work and therefore, 
 
 TASKS
 
-0. These are all the tasks of this project, the ones that are completed link to the corresponding files.
+These are all the tasks of this project, the ones that are completed link to the corresponding files.
